@@ -1,3 +1,5 @@
+by rejeen
+guns.lol/rejeen
 ;@echo off
 ;Title Converting batch scripts to file.exe with iexpress
 ;Mode 75,3 & color 0A
